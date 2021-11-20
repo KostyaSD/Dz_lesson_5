@@ -16,7 +16,6 @@ public class Main {
             if (employeesArr[i].getAge() > 40) {
                 System.out.println(employeesArr[i].getInfo());
             }
-
         }
     }
 }
